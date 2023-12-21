@@ -33,6 +33,7 @@ UwU Encrypter is a simple, user-friendly application for hashing strings using t
 ```bash
 pip install bcrypt customtkinter pyperclip tkinter
 ```
+
 ## Contributing
 
 We welcome contributions to UwU Encrypter! Here's how you can help:
@@ -46,3 +47,4 @@ We welcome contributions to UwU Encrypter! Here's how you can help:
 ## Issues
 
 If you're having trouble with UwU Encrypter, please create an issue on GitHub. Be sure to include details about the problem, including the version of the application you're using, what you're trying to do, what you expected to happen, and what actually happened. The more detail you provide, the easier it will be for us to help.
+
