@@ -1,6 +1,8 @@
 # UwU Encrypter v1.0 by Pelda
 
-UwU Encrypter is a simple, user-friendly application for hashing strings using the bcrypt algorithm.
+UwU Encrypter is a simple, user-friendly application for hashing strings using the bcrypt algorithm that I made while bored at work.
+
+I decided to **finally** make a decent readme file, there we have it.
 
 ## Features
 
@@ -36,15 +38,15 @@ pip install bcrypt customtkinter pyperclip tkinter
 
 ## Contributing
 
-We welcome contributions to UwU Encrypter! Here's how you can help:
+Contributions are welcome!!! Here's how you can help:
 
 - **Bug Reports**: If you find a bug, please create an issue on GitHub describing the problem. Include as much detail as you can, such as the version of the application you're using, what you expected to happen, what actually happened, and steps to reproduce the issue.
 
 - **Feature Requests**: If you'd like to see a new feature in UwU Encrypter, please create an issue on GitHub describing your idea.
 
-- **Pull Requests**: If you've fixed a bug or implemented a new feature, we'd love to see your work! Please submit a pull request on GitHub. Make sure your code follows the existing style, and that all tests pass before submitting your PR.
+- **Pull Requests**: If you've fixed a bug or implemented a new feature, I'd love to see your work! Please submit a pull request on GitHub. Make sure your code follows the existing style, and that all tests pass before submitting your PR.
 
 ## Issues
 
-If you're having trouble with UwU Encrypter, please create an issue on GitHub. Be sure to include details about the problem, including the version of the application you're using, what you're trying to do, what you expected to happen, and what actually happened. The more detail you provide, the easier it will be for us to help.
+If you're having trouble with UwU Encrypter, please create an issue on GitHub. Be sure to include details about the problem, including the version of the application you're using, what you're trying to do, what you expected to happen, and what actually happened. The more detail you provide, the easier it will be for me to help.
 
