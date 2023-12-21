@@ -32,7 +32,7 @@ UwU Encrypter is a simple, user-friendly application for hashing strings using t
 
 ```bash
 pip install bcrypt customtkinter pyperclip tkinter
-
+```
 ## Contributing
 
 We welcome contributions to UwU Encrypter! Here's how you can help:
